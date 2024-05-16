@@ -8,3 +8,5 @@
     - Developing area: The folder where the git repository was initiated.
     - Staging area: Temporary, intermediary area to prepare the commit.
     - Local repository: The hidden '.git' file, where all the versions are tracked.
+
+> What happens if I forget the `-m` in my commit?
