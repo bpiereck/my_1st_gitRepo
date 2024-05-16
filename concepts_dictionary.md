@@ -19,4 +19,7 @@ Git will make me add a message by popping up an editor where I can write longer 
 create a file called `.gitignore`, all listes files and folders will not be version-controled by Git, nor pushed to GitHub.
 
 5. README.md file
-Is the file to describe your project, tool in Git and GitHub. Very important and very good practice in RDM.
+Is the file to describe your project, tool in Git and GitHub. Very important and very good practice in RDM.git add
+
+6. How to go from local to remote
+You can do at any time of your project. You create 'a bridge' or connection, while to send commit trhough the brig you need to do it on a routine basis with `push`.
