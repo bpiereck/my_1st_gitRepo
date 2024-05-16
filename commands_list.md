@@ -13,3 +13,8 @@ Untracked: Completely new file, never seen it before
 
 `git commit -m "meaninful msg"` : that will create a point (version) in my timeline
 
+- Time traveling
+
+`git log` : Check the history and access the unique ID's and authors
+`git diff <id> <id>` : Check differences in two commits (start with oldest commit)
+`git show <id>` / `git show <id> <id>` : show the changes that were made in a chosen commit
