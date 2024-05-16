@@ -14,3 +14,9 @@
 
 > What happens if I forget the `-m` in my commit?
 Git will make me add a message by popping up an editor where I can write longer and more strucutred messages (paragraphs are allowed)
+
+4. Files to ignore in GitHub
+create a file called `.gitignore`, all listes files and folders will not be version-controled by Git, nor pushed to GitHub.
+
+5. README.md file
+Is the file to describe your project, tool in Git and GitHub. Very important and very good practice in RDM.
