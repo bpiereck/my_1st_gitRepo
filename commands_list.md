@@ -32,5 +32,3 @@ To push the current branch and set the remote as upstream, use
 
     git push --set-upstream origin master
 ```
-
-`git pull` : to update from remote to local with changes made by my collaborators or directly on the remote repository.
