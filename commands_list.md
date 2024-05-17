@@ -34,3 +34,5 @@ To push the current branch and set the remote as upstream, use
 ```
 
 `git pull` : to update from remote to local with changes made by my collaborators or directly on the remote repository.
+
+ to create a new branch you need `git branch <new_branch_name>`, once you have it you need to move inside to start edditing, by doing `git checkout <branch_name>`.

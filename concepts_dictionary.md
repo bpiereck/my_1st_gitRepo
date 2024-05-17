@@ -27,3 +27,8 @@ You can do at any time of your project. You create 'a bridge' or connection, whi
 7. How to solve conflicts. 
 Don't get into one in the first place.
 I'M ADDING A CONFLIC BECAUSE I'M MEAN!
+
+8. Working risk free
+
+-Git branch: Create a new time-line with previous commints in common and following commits independent.
+ 
