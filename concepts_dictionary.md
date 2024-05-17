@@ -8,3 +8,6 @@
     - Developing area: The folder where the git repository was initiated.
     - Staging area: Temporary, intermediary area to prepare the commit.
     - Local repository: The hidden '.git' file, where all the versions are tracked.
+
+    MESSING UP THE PAST!!!
+    Just because I can!
