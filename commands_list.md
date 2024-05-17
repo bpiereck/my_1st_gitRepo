@@ -1,5 +1,7 @@
 # Commands list
 
+add a line
+
 `git init` : initiliazes the local repository
 
 `git status` : Check in what conceptual area your file is
