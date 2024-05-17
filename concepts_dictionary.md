@@ -36,3 +36,4 @@ I'M ADDING A CONFLIC BECAUSE I'M MEAN!
 =======    - Local repository: The hidden '.git' file, where all the versions are tracked.
 
 
+Sarah
