@@ -37,6 +37,8 @@ Dilza Campos
  
 =======    - Local repository: The hidden '.git' file, where all the versions are tracked.
 
+MIRA STAS
 Sarah
 Lisa
+
 
