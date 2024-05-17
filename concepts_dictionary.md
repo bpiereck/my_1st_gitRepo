@@ -32,6 +32,8 @@ I'M ADDING A CONFLIC BECAUSE I'M MEAN!
 8. Working risk free
 
 -Git branch: Create a new time-line with previous commints in common and following commits independent.
+
+Dilza Campos
  
 =======    - Local repository: The hidden '.git' file, where all the versions are tracked.
 
