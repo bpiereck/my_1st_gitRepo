@@ -34,3 +34,5 @@ To push the current branch and set the remote as upstream, use
 ```
 
 `git pull` : to update from remote to local with changes made by my collaborators or directly on the remote repository.
+
+NEW LINE - CHECK TO THE PAST
